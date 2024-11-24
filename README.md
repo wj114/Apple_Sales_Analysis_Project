@@ -23,7 +23,7 @@ This project primarily focuses on developing and showcasing the following SQL sk
 - **Period Covered**: The data spans multiple years, allowing for long-term trend analysis.
 - **Geographical Coverage**: Sales data from Apple stores across various countries.
 
-## Buiness Questions
+## Buisness Questions
 
 The project is divided into three levels of questions, each designed to assess SQL skills of increasing complexity. SQL queries addressing complex business problems are presented to demonstrate the capability to solve challenging issues.
 
